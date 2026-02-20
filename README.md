@@ -1,4 +1,4 @@
-# Hi, I'm Youssef 👋
+# Hi, I'm Youssef Tinid 👋
 
 🎓 Computer Science Engineering Student | DevOps & Cloud Enthusiast  
 💻 Full-stack & Backend Development | Linux & Cloud Systems | Automation Fan  
